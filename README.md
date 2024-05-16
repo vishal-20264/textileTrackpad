@@ -3,7 +3,7 @@
 **Introduction:**
 The Textile Trackpad project explores the integration of textile materials with electronic components to create a touch-sensitive interface. The project aims to develop an interactive fabric-based trackpad capable of detecting touch inputs and translating them into digital signals for various applications. Two prototypes were developed, each employing different materials and components to achieve the desired functionality.
 
-**Hardware Components:**
+**Hardware Components:**<br />
 **Arduino Nano Microcontroller/ Bare conductive touch board:** The Arduino Nano/Bare conductive touch board served as the central processing unit, responsible for interfacing with the capacitive touch sensors and processing touch input data.
 **Capacitive Tape:** Capacitive tape was employed to create touch-sensitive regions on the textile surface. When touched, the capacitance of the tape changed, which was detected by the microcontroller.
 **Conductive Materials:** Conductive thread and bare conductive touch board were utilized to establish electrical connections and create touch-sensitive areas on the fabric.
